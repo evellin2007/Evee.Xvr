@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Evee
 - 👀 I’m interested in usar o github para armazenar os meus arquvos  e desenvolver projetos
-- 📫  evellin.xavier@gmail.com
 
 <!---
 Evee/Evee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
